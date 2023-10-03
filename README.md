@@ -1,0 +1,2 @@
+# SocketCliente
+Socket Client C#
