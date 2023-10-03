@@ -1,0 +1,11 @@
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\bin\Debug\Socket Cliente.exe.config
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\bin\Debug\Socket Cliente.exe
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\bin\Debug\Socket Cliente.pdb
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket_Cliente.Properties.Resources.resources
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket Cliente.csproj.GenerateResource.cache
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket Cliente.csproj.CoreCompileInputs.cache
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket Cliente.exe
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket Cliente.pdb
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket Cliente.csproj.AssemblyReference.cache
+C:\Users\trindadegab\source\repos\Socket Cliente\Socket Cliente\obj\Debug\Socket_Cliente.FrmCliente.resources
